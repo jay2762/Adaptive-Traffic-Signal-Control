@@ -1,4 +1,4 @@
-# Traffic Signal Control System
+# Adaptive Traffic Signal Control
 
 This repository contains a project integrating SUMO (Simulation of Urban MObility) with reinforcement learning algorithms to optimize traffic management and control systems. The project includes implementations of Q-learning and DQN (Deep Q-Network) algorithms and provides a complete setup for training and testing RL agents in a SUMO environment.
 
